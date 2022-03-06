@@ -11,6 +11,9 @@ const TextMessage = (props) => {
       classNames +=
         " bg-white text-desaturatedDarkViolet rounded-br-[5px] shadow-lg";
       wrapClassNames += " justify-end ml-auto mr-0";
+      break;
+    default:
+      break;
   }
   return (
     <div className={wrapClassNames}>
