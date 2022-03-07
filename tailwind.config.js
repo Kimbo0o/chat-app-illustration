@@ -24,5 +24,5 @@ module.exports = {
     },
     extend: {},
   },
-  plugins: [require("postcss-100vh-fix")],
+  plugins: [],
 };
