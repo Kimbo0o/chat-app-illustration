@@ -47,5 +47,4 @@ This was my first time using Tailwind CSS. It is definitely a very interesting l
 ## Author
 
 - Website - [Kim Daniel Koch](https://www.kimdanielkoch.de)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@Kimbo0o](https://www.frontendmentor.io/profile/Kimbo0o)
+- Frontend Mentor - [@Kimbo0o](https://www.frontendmentor.io/profile/Kimbo0o)
