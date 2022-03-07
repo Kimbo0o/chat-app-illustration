@@ -3,7 +3,7 @@ import Phone from "./components/Phone";
 
 function App() {
   return (
-    <div className=" bg-veryLightGray">
+    <div>
       {/* left decoration */}
       <div className="z-1 fixed right-[50%] translate-x-[-315px] w-[500px] h-[80%] bg-gradient-to-b from-lightMagenta to-lightViolet rounded-b-full tablet:translate-x-0 tablet:h-[57%]"></div>
       {/* right decoration */}
