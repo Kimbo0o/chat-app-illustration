@@ -9,7 +9,7 @@ function App() {
       {/* right decoration */}
       <div className="z-1 fixed bottom-0 left-[50%] translate-x-[380px] w-[500px] h-[80%] bg-lightGrayishViolet2 rounded-t-full tablet:translate-x-0 tablet:h-[50%]"></div>
       {/* content */}
-      <div className="w-full max-w-[945px] min-h-screen mx-auto px-4 flex items-center  justify-around tablet:flex-col tablet:items-center tablet:justify-start tablet:px-10">
+      <div className="w-full max-w-[945px] min-h-screen mx-auto px-4 flex items-center  justify-around tablet:flex-col tablet:items-center tablet:justify-start tablet:px-10 tablet:min-h-0">
         <div className="flex-[0_0_50%] flex justify-end tablet:flex-1">
           <div className="mr-[125px] tablet:mr-0 tablet:mt-14">
             <Phone></Phone>
