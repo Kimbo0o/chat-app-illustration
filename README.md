@@ -14,6 +14,7 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
   - [Author](#author)
+  - [TODOS](#todos)
 
 ## Overview
 
@@ -48,3 +49,7 @@ This was my first time using Tailwind CSS. It is definitely a very interesting l
 
 - Website - [Kim Daniel Koch](https://www.kimdanielkoch.de)
 - Frontend Mentor - [@Kimbo0o](https://www.frontendmentor.io/profile/Kimbo0o)
+
+## TODOS
+
+The scroll behaviour in iOS Safari still needs some work. There seems to be a problem when the navigation bar shrinks (Background color and decorations position).
